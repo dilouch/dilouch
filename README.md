@@ -50,7 +50,7 @@ Dans ce projet nous devions faire un site web pour s'occuper de la gestion d'abs
 ## 📫 Me contacter
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simsekdilara@outlook.fr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](LIEN_DU_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dilouch.github.io/)
 
 ---
 
