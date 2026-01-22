@@ -34,7 +34,6 @@ Dans ce projet nous devions faire un site web pour s'occuper de la gestion d'abs
 ## 📊 Statistiques GitHub
 
 ![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=dilouch&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilouch&layout=compact&theme=radical)
 
 ## 🎯 Ce que je recherche
 
