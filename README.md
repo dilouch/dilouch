@@ -44,7 +44,6 @@ Dans ce projet nous devions faire un site web pour s'occuper de la gestion d'abs
   - Développement d’applications  
   - Développement web  
   - Backend  
-  - Projets informatiques
 
 ## 📫 Me contacter
 
