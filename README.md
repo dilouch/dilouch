@@ -22,6 +22,7 @@
 
 ## 🚀 Projets
 
+### 📌 [Jeu du Loup et du Mouton]
 Dans ce projet on devais faire un jeu dans un labyrinthe et voir les différents algorithme de résolution - Technologies utilisées : Java, JavaFX
 - Creer un labyrinthe avec JavaFX
 - Creation d'une IA pour le loup et le mouton pour les résolutions algorithmique 
