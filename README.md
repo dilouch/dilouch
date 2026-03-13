@@ -32,25 +32,9 @@ Dans ce projet nous devions faire un site web pour s'occuper de la gestion d'abs
 - Pouvoir importer des absences depuis un fichier CSV
 - Pouvoir justifier une absence lors que l'on est absent
 
-## 📊 Statistiques GitHub
-
-![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=dilouch&show_icons=true&theme=radical)
-
-## 🎯 Ce que je recherche
-
-- **Type** : Stage
-- **Durée** : 8 semaines
-- **Début** : 13 avril 2026
-- **Domaines d’intérêt** :  
-  - Développement d’applications  
-  - Développement web  
-  - Backend  
-
 ## 📫 Me contacter
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simsekdilara@outlook.fr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dilouch.github.io/)
 
 ---
-
-💡 *Ouverte aux opportunités de stage à partir du 13 avril 2026. N’hésitez pas à me contacter !*
