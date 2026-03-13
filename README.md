@@ -2,9 +2,11 @@
 
 ## 🎓 À propos de moi
 
-Étudiante en **BUT Informatique – option Réalisation d’Applications**, je suis actuellement **à la recherche d’un stage** afin de mettre en pratique mes compétences techniques et de continuer à apprendre au sein d’un environnement professionnel.
+Étudiante en BUT Informatique – option Réalisation d’Applications, je développe mes compétences en conception et développement de logiciels à travers mes projets académiques et personnels.
+Passionnée par le code et la résolution de problèmes, j’aime apprendre de nouvelles technologies et créer des solutions utiles et bien construites.
 
-🎯 **Objectif** : Participer à des projets concrets tout en développant mes compétences en développement informatique et en conception d’applications.
+🎯 **Objectif** : Continuer à évoluer en développement informatique grâce à des projets concrets alliant technique, logique et créativité.
+
 
 ## 💻 Compétences techniques
 
