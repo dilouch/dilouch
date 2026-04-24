@@ -19,7 +19,7 @@ Passionnée par le code et la résolution de problèmes, j’aime apprendre de n
 ### Technologies & Outils
 - **Développement** : HTML, CSS, JavaScript
 - **Backend** : PHP, Java, Python
-- **Bases de données** : PostgreSQL
+- **Bases de données** : PostgreSQL, MangoDB
 - **Outils** : Git, GitHub, VS Code
 
 ## 🚀 Projets
